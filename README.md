@@ -18,11 +18,14 @@ Ele simplifica tarefas complexas em comparação com o Java.
 
 ## Fontes:
 ### 📖 Leitura
+https://roadmap.sh/android
 
+https://kotlinlang.org/docs/home.html
+
+https://www.w3schools.com/kotlin/
 ### 🎬 Videos
+https://www.youtube.com/watch?v=4lOjDziyce8&list=PLJ0AcghBBWSj0i1SQfr3GdwUBnUaIf5xw
 
-
-https://www.youtube.com/watch?v=yTQDbqmv8Ho&t=7322s
 ### 👇🏻 Repositorios
 https://github.com/freeCodeCamp/freeCodeCamp
 
