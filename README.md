@@ -26,6 +26,8 @@ https://www.w3schools.com/kotlin/
 ### 🎬 Videos
 https://www.youtube.com/watch?v=4lOjDziyce8&list=PLJ0AcghBBWSj0i1SQfr3GdwUBnUaIf5xw
 
+https://www.youtube.com/watch?v=EExSSotojVI
+
 ### 👇🏻 Repositorios
 https://github.com/freeCodeCamp/freeCodeCamp
 
