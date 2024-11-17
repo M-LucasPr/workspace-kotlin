@@ -1,6 +1,5 @@
 [![My Skills](https://skillicons.dev/icons?i=kotlin,)](#)
 
-## Fontes:
 Kotlin é uma linguagem de programação moderna e poderosa que foi desenvolvida pela JetBrains, a mesma empresa que criou ferramentas como o IntelliJ IDEA. Lançada oficialmente em 2011, ela é uma linguagem de código aberto e foi projetada para interoperar totalmente com o Java, o que significa que você pode usar Kotlin e Java no mesmo projeto.
 
 ## Características principais do Kotlin
@@ -16,6 +15,8 @@ Kotlin é amplamente usado para o desenvolvimento de aplicativos Android e é of
 Para aplicativos Android, Kotlin proporciona uma experiência de desenvolvimento mais eficiente e com menos erros.
 Ele simplifica tarefas complexas em comparação com o Java.
 É ótimo para quem deseja desenvolver usando uma linguagem mais moderna sem perder a capacidade de integração com sistemas baseados em Java.
+
+## Fontes:
 ### 📖 Leitura
 
 ### 🎬 Videos
