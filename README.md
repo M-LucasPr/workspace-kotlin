@@ -17,6 +17,9 @@ Ele simplifica tarefas complexas em comparação com o Java.
 É ótimo para quem deseja desenvolver usando uma linguagem mais moderna sem perder a capacidade de integração com sistemas baseados em Java.
 
 ## Fontes:
+### 📝 Notion Pessoal (pt/br)
+https://ossified-journey-c6f.notion.site/Kotlin-1422c1d6292880cabab5cd1be62c5737
+
 ### 📖 Leitura
 https://roadmap.sh/android
 
